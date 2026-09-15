@@ -1,0 +1,33 @@
+{
+    "auth_users": [
+        {
+            "email": "eyad@test.com",
+            "username": "eyad alsherif",
+            "passwordHash": "$2b$10$YbGXXnWRopAoyCTLskC9/elWTx80n0DyoGdEuJTxO2qLFMpYykWwG",
+            "is_verified": false,
+            "id": "6045921"
+        },
+        {
+            "email": "dyaa@gmail.com",
+            "username": "Dyaa",
+            "passwordHash": "$2b$10$o3CmVm/5wjhLEl2u8gor1OFmYmZQqXVz1bkDWTqNYWToa1LlwfdJS",
+            "id": "8804505"
+        },
+        {
+            "email": "dyatamhmd@gmail.com",
+            "username": "Dyaa Ata",
+            "passwordHash": "$2b$10$V5yP6gPIVhGwl.kGKZT9luElJAUEyCYCgn11WP3vKlslOp1si1rve",
+            "id": "6840844"
+        }
+    ],
+    "users": [
+        {
+            "name": "eyad"
+        },
+        {
+            "name": "ahmed"
+        }
+    ],
+    "books": [],
+    "orders": []
+}
